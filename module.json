@@ -1,0 +1,12 @@
+{
+  "name": "xtensor-microbit",
+  "version": "2.0.0-rc9",
+  "description": "The micro:bit runtime common abstraction with examples.",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "extraIncludes": ["/home/wolfv/Programs/xtensor/include", "/home/wolfv/Programs/xtl/include"],
+  "bin": "./source"
+}
