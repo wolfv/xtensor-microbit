@@ -5,6 +5,8 @@ It is an experiment if we can use xtensor for embedded development. This could l
 interesting applications, for example, using xtensor as part of a toolchain to implement embedded control
 algorithms.
 
+Note: the following requires `yotta` to be installed. Read up on the micro:bit docs how to make that happen: https://lancaster-university.github.io/microbit-docs/offline-toolchains/
+
 To build this application, execute:
 
 ```bash
