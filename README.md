@@ -7,7 +7,7 @@ algorithms.
 
 To build this application, execute:
 
-```
+```bash
 yotta target bbc-microbit-classic-gcc-nosd
 yotta up
 # Now you need to patch cmake to allow exceptions
