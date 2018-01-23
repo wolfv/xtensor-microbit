@@ -1,5 +1,9 @@
 # Game of Life on the micro:bit
 
+![](https://i.imgur.com/EZCIzkX.gif)
+
+Here is a video: https://i.imgur.com/EZCIzkX.gifv
+
 This repository contains a Just For Fun (JFF) implementation of Conway's Game of Life for the micro:bit.
 It is an experiment if we can use xtensor for embedded development. This could lead to other very 
 interesting applications, for example, using xtensor as part of a toolchain to implement embedded control
